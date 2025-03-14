@@ -1,6 +1,6 @@
 # RAG PDF Query Application
 
-This is a **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents, process them into a vector store, and ask questions based on their content. It uses LangChain for document processing, HuggingFace embeddings for vector storage (Chroma), and Ollama's Llama3.2 model for generating answers.
+This is a **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents, process them into a vector store, and ask questions based on their content. It uses LangChain for document processing, HuggingFace embeddings for vector storage (Chroma), and Ollama's Llama3.1 model for generating answers.
 
 ## Features
 - Upload a PDF document (e.g., research papers, manuals).
