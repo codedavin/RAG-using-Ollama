@@ -10,4 +10,4 @@ This is a **Retrieval-Augmented Generation (RAG)** application that allows users
 ## Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/codedavin/sentence-transformer.git
+https://github.com/codedavin/RAG-using-Ollama
